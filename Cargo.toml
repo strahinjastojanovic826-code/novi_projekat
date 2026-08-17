@@ -7,7 +7,7 @@ description = "Mini amateur hobby OS kernel simulation with framebuffer UI writt
 readme = "README.md"
 repository = "https://github.com//Strale/novi_projekat"
 license = "MIT"
-keywords = ["os", "simulation", "ui", "hobby", eframe, quat os]
+keywords = ["os", "simulation", "ui", "hobby", "eframe", "quat os"]
 
 [dependencies]
 eframe = "0.27"
