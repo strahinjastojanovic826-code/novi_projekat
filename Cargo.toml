@@ -6,7 +6,7 @@ authors = ["Strale <strahinjastojanovic826@gmail.com>"]
 description = "Mini amateur hobby OS kernel simulation with framebuffer UI written in Rust"
 readme = "README.md"
 repository = "https://github.com//Strale/novi_projekat"
-license = "MIT"
+license = "GPL-2.0-or-later"
 keywords = ["os", "simulation", "ui", "hobby", "eframe", "quat os"] 
 
 [dependencies]
